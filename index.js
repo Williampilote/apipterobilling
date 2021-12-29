@@ -1,7 +1,6 @@
 var app = require("express")();
 var server = require("http").Server(app);
 const axios = require("axios");
-const { isPromise } = require("util/types");
 require("dotenv").config();
 
 const debug = true;
