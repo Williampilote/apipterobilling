@@ -1,0 +1,24 @@
+{
+    "name": "api",
+    "version": "1.0.0",
+    "description": "```\r apt install python3 python3-pip\r ```\r ## start  \r ```\r python3 server.py\r ```",
+    "main": "index.js",
+    "scripts": {
+        "start": "nodemon index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/SorexProject/api.git"
+    },
+    "author": "Williampilote",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/SorexProject/api/issues"
+    },
+    "homepage": "https://github.com/SorexProject/api#readme",
+    "dependencies": {
+        "axios": "^0.24.0",
+        "dotenv": "^10.0.0",
+        "express": "^4.17.2"
+    }
+}
