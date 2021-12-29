@@ -8,14 +8,14 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/SorexProject/api.git"
+        "url": "git+https://github.com/Williampilote/apipterobilling.git"
     },
     "author": "Williampilote",
     "license": "ISC",
     "bugs": {
-        "url": "https://github.com/SorexProject/api/issues"
+        "url": "https://github.com/Williampilote/apipterobilling/issues"
     },
-    "homepage": "https://github.com/SorexProject/api#readme",
+    "homepage": "https://github.com/Williampilote/apipterobilling#readme",
     "dependencies": {
         "axios": "^0.24.0",
         "dotenv": "^10.0.0",
